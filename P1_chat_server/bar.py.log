@@ -1,0 +1,8 @@
+DEBUG:root:received "{"command": "message", "message": "<<None>> [Foo]: Olá Mundo", "ts": 1618005672}
+DEBUG:root:received "{"command": "message", "message": "<<None>> [Foo]: Olá Mundo", "ts": 1618005674}
+DEBUG:root:received "{"command": "message", "message": "<<None>> [Foo]: You are awesome!", "ts": 1618005674}
+DEBUG:root:received "{"command": "message", "message": "<<None>> [Foo]: Hello!", "ts": 1618005677}
+DEBUG:root:received "{"command": "message", "message": "<<None>> [Foo]: I'm Joe", "ts": 1618005677}
+DEBUG:root:received "{"command": "message", "message": "<<None>> [Foo]: Cya around", "ts": 1618005677}
+DEBUG:root:received "{"command": "message", "message": "<<None>> [Foo]: Hello!", "ts": 1618005679}
+DEBUG:root:received "{"command": "message", "message": "<<#c2>> [Foo]: I've come to talk with you again", "channel": "#c2", "ts": 1618005684}

@@ -1,0 +1,34 @@
+DEBUG:root:received "{"command": "register", "user": "Foo"}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "<<None>> [Foo]: Olá Mundo", "ts": 1618005672}
+DEBUG:root:received "{"command": "message", "message": "<<None>> [Bar]: Hello World", "ts": 1618005672}
+DEBUG:root:received "{"command": "register", "user": "Foo"}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "<<None>> [Foo]: Olá Mundo", "ts": 1618005674}
+DEBUG:root:received "{"command": "message", "message": "<<None>> [Bar]: Hello World", "ts": 1618005674}
+DEBUG:root:received "{"command": "message", "message": "<<None>> [Bar]: How are you?", "ts": 1618005674}
+DEBUG:root:received "{"command": "message", "message": "<<None>> [Bar]: Are you new around here?", "ts": 1618005674}
+DEBUG:root:received "{"command": "message", "message": "<<None>> [Bar]: Hope you enjoy your stay", "ts": 1618005674}
+DEBUG:root:received "{"command": "message", "message": "<<None>> [Foo]: You are awesome!", "ts": 1618005674}
+DEBUG:root:received "{"command": "register", "user": "Foo"}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "<<None>> [Foo]: Hello!", "ts": 1618005677}
+DEBUG:root:received "{"command": "message", "message": "<<None>> [Bar]: Welcome aboard", "ts": 1618005677}
+DEBUG:root:received "{"command": "message", "message": "<<None>> [Bar]: Who are you?", "ts": 1618005677}
+DEBUG:root:received "{"command": "message", "message": "<<None>> [Foo]: I'm Joe", "ts": 1618005677}
+DEBUG:root:received "{"command": "message", "message": "<<None>> [Bar]: Nice to meet you Joe", "ts": 1618005677}
+DEBUG:root:received "{"command": "message", "message": "<<None>> [Foo]: Cya around", "ts": 1618005677}
+DEBUG:root:received "{"command": "register", "user": "Foo"}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "<<None>> [Foo]: Hello!", "ts": 1618005679}
+DEBUG:root:received "{"command": "join", "channel": "#cd"}
+DEBUG:root:received "{"command": "message", "message": "<<#cd>> [Foo]: no one is here...", "channel": "#cd", "ts": 1618005679}
+DEBUG:root:received "{"command": "register", "user": "Foo"}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "join", "channel": "#c1"}
+DEBUG:root:received "{"command": "join", "channel": "#c2"}
+DEBUG:root:received "{"command": "message", "message": "<<#c1>> [Foo]: Hello darkness, my old friend", "channel": "#c1", "ts": 1618005684}
+DEBUG:root:received "{"command": "join", "channel": "#c2"}
+DEBUG:root:received "{"command": "message", "message": "<<#c2>> [Foo]: I've come to talk with you again", "channel": "#c2", "ts": 1618005684}
+DEBUG:root:received "{"command": "join", "channel": "#c1"}
+DEBUG:root:received "{"command": "message", "message": "<<#c1>> [Foo]: Because a vision softly creeping", "channel": "#c1", "ts": 1618005684}

@@ -1,0 +1,8 @@
+DEBUG:root:received "{"command": "message", "message": "<<None>> [Bar]: Hello World", "ts": 1618005672}
+DEBUG:root:received "{"command": "message", "message": "<<None>> [Bar]: Hello World", "ts": 1618005674}
+DEBUG:root:received "{"command": "message", "message": "<<None>> [Bar]: How are you?", "ts": 1618005674}
+DEBUG:root:received "{"command": "message", "message": "<<None>> [Bar]: Are you new around here?", "ts": 1618005674}
+DEBUG:root:received "{"command": "message", "message": "<<None>> [Bar]: Hope you enjoy your stay", "ts": 1618005674}
+DEBUG:root:received "{"command": "message", "message": "<<None>> [Bar]: Welcome aboard", "ts": 1618005677}
+DEBUG:root:received "{"command": "message", "message": "<<None>> [Bar]: Who are you?", "ts": 1618005677}
+DEBUG:root:received "{"command": "message", "message": "<<None>> [Bar]: Nice to meet you Joe", "ts": 1618005677}
